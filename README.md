@@ -5,23 +5,33 @@
 #### Get started
 
 ```
-1. git clone 'repo'
+1. git clone 'this repo'
 2. npm i
 3. npm run serve
 ```
 
 
 #### All Products
-![Products-Displau](public//imgs//products-display.png)
+<div style="text-align: center">
+    <img src="public//imgs//products-display.png"> 
+</div>
 
 #### Production Detail
-![Production-detail](public//imgs//production-detail.png)
+<div style="text-align: center">
+    <img src="public//imgs//production-detail.png"> 
+</div>
 
 #### My Order
-![My-Order](public//imgs//order-list.png)
+<div style="text-align: center">
+    <img src="public//imgs//order-list.png"> 
+</div>
 
 #### Payment Comfirm
-![Payment-Comfirm](public//imgs//confirm.png)
+<div style="text-align: center">
+    <img src="public//imgs//confirm.png"> 
+</div>
 
 #### Pay it
-![Pay it](public//imgs//pay.png)
+<div style="text-align: center">
+    <img src="public//imgs//pay.png"> 
+</div>
